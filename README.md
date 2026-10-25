@@ -1,2 +1,2 @@
 # Project1
-Project1 repository
+My first home project
